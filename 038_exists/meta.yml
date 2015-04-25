@@ -1,8 +1,9 @@
+---
 tags:
-  - pdep
-  - guia2
-  - ordenSuperior
-  - listas
-  - pointFree
-  - prelude
+- prelude
+- pointFree
+- pdep
+- guia2
+- ordenSuperior
+- listas
 locale: es

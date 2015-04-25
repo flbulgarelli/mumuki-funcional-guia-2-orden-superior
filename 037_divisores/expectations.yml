@@ -1,3 +1,4 @@
+---
 expectations:
- - binding: divisores
-   inspection: HasBinding
+- binding: divisores
+  inspection: HasBinding

@@ -1,8 +1,9 @@
+---
 tags:
-  - pdep
-  - guia2
-  - ordenSuperior
-  - aplicacionParcial
-  - listas
-  - pointFree
+- pointFree
+- aplicacionParcial
+- pdep
+- guia2
+- ordenSuperior
+- listas
 locale: es

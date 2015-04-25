@@ -1,3 +1,4 @@
+---
 expectations:
- - binding: frecuenciaCardiaca
-   inspection: Not:HasBinding
+- binding: frecuenciaCardiaca
+  inspection: Not:HasBinding

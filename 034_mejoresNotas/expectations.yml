@@ -1,5 +1,6 @@
+---
 expectations:
- - binding: mejoresNotas
-   inspection: HasBinding
- - binding: mejoresNotas
-   inspection: HasUsage:maximum
+- binding: mejoresNotas
+  inspection: HasBinding
+- binding: mejoresNotas
+  inspection: HasUsage:maximum

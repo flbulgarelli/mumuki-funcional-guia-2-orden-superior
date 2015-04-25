@@ -1,6 +1,7 @@
+---
 tags:
-  - pdep
-  - guia2
-  - ordenSuperior
-  - aplicacionParcial
+- aplicacionParcial
+- pdep
+- guia2
+- ordenSuperior
 locale: es
